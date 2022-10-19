@@ -1,3 +1,3 @@
 # Api-Students
 
-![Screenshot](Get.png)
+![Screenshot](Get.PNG)
